@@ -1,0 +1,6 @@
+.DS_Store
+.idea/
+
+# Ignore this large files this can be re-added via source and pip install
+fb-downloader/bin/
+fb-downloader/lib/
